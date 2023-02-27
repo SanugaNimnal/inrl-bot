@@ -1,5 +1,5 @@
 {
-  "name": "inrl-bot-md",
+  "name": "inrl",
   "version": "5.1.0",
   "description": "WhatsApp bot made with nodejs and baileys",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/inrl-official/inrl-bot-md.git"
+    "url": "git+https://github.com"
   },
   "keywords": [
     "whatsapp",
     "bot",
     "multi-device"
   ],
-  "author": "inrl",
+  "author": "Sathviru",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/inrl-official/inrl-bot-md/issues"
