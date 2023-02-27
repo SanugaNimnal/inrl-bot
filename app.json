@@ -1,6 +1,6 @@
 {
 	"name": "inrl",
-	"description": "inrl-wa-bot-md",
+	"description": "inrl",
 	"keywords": [],
 	"stack": "container",
 	"env": {
